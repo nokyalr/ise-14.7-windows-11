@@ -1,7 +1,6 @@
 # Xilinx ISE Design Suite 14.7 Installation Guide for Windows 11
 
 This guide explains how to install and run Xilinx ISE Design Suite 14.7 on Windows 11 without using VirtualBox (VM).
-*Note: This guide has not attempted to compile to hardware (FPGA)*
 
 ---
 
